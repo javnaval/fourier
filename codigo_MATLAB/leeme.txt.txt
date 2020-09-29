@@ -1,0 +1,15 @@
+El código empleado se ha guardado por carpetas según los capítulos de la memoria 
+en los que se ha empleado durante su desarrollo:
+	-Capitulo 2
+	-Capítulo 4
+La aplicación práctica se ha guardado en la carpeta
+	-tratamientoSonido
+
+Los ficheros "Matlab Live Script" se han guardado tanto en formato .mlx para volver a ser ejecutados como en pdf,
+donde se ven las gráficas.
+
+Algunas de las gráficas una vez dibujadas con "plot" han sido customizadas en la ventana Figure correspondiente 
+(cambio del color, de la leyenda, las marcas de los ejes escritas en formato latex, etc). 
+
+
+Muchas gracias
